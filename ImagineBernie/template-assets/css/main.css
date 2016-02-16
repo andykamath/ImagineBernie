@@ -7,6 +7,7 @@ body {
   font-size: 16px;
   color: #0d0d0d;
   overflow-x: hidden;
+  white-space:nowrap;
 }
 
 .sep {
@@ -535,6 +536,7 @@ Our Team Style
 #team {
   padding: 60px 0;
   text-align: center;
+  white-space:nowrap;
 }
 #team h2 {
   text-transform: uppercase;
